@@ -1,0 +1,29 @@
+# IMPORTANT
+Cursor IDE Setup and integration 
+## Overview 
+This project documents the setup and integration of Cursor IDE with Clude Code and Code extensions, along with Github .
+---
+## Tools Installed 
+- Cursor IDE - AI- powered code editor
+- Clude code extension - AI coding assistant
+- Codex Extension - AI -powered coding support
+- Github - Version control and repository hosting
+--- 
+## Steps Completed
+1. Installed Cursor IDE
+2. Installed Clude code extension and logged in
+3. Installed Codex extension and logged in 
+4. Created a public repository on Github
+5. Opened the repository
+6. Created and edited README.md
+7. comitted and saved changes
+---
+## Challenges Faced & Solution 
+- Faced  minor confusion while setting up repository
+   - solved by following proper steps
+ 
+- login issue in extension
+   - solved by re- login and checking internet connection
+ ---
+ ## Conclusion 
+ successfully completed the setup of Cursor IDE with AI extension and document the process.
